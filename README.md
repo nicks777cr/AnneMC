@@ -1,6 +1,6 @@
-# AnneMC / LeoAi UI
+# AnneMC / MickeyClaw UI
 
-A premium, dark, research-workspace UI inspired by the information hierarchy of modern AI notebook products, with an original LeoAi visual language.
+A premium, dark, research-workspace UI inspired by the information hierarchy of modern AI notebook products, with an original MickeyClaw visual language.
 
 ## Preview
 
@@ -20,6 +20,6 @@ No build step is required for the visual prototype. Open `index.html` in a brows
 - Local engine and GPU status surfaces
 - Floating AI composer
 - Responsive mobile layout
-- Lightweight interaction hooks ready for LeoAi/Ollama API wiring
+- Lightweight interaction hooks ready for MickeyClaw/Ollama API wiring
 
 The interface is intentionally inspired by the calm, document-first workflow of AI research notebooks without copying a proprietary UI one-for-one.
